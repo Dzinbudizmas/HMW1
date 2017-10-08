@@ -2,6 +2,6 @@ Pirmas redagavimas
 
 Antras redagavimas
 
-Trecias redagavimas
+Trecias redagavimas po brancu
 
 Sestas redagavimas
