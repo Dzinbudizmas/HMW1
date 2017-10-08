@@ -1,14 +1,7 @@
 Pirmas redagavimas
-Labas, Dariau,
-
-Kaip praejo savaitgalis?
-
-Ar idomu dirbti NFQ? :)
-
-
 Antras redagavimas Dar vienas redagavimas
 Antras redagavimas po brancho
-
 Trecias redagavimas
-
-Redaguojam Feature1 pirma karta
+Redaguojam Feature1 pirma karta.
+Redagavimai baigti.
+Cia turejo buti nuostabus kodas, bet bus kita karta.
