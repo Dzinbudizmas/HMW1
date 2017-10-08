@@ -1,6 +1,6 @@
 Pirmas redagavimas
 
-Antras redagavimas
+Antras redagavimas po brancho
 
 Trecias redagavimas
 
