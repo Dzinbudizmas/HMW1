@@ -1,8 +1,12 @@
 Pirmas redagavimas
+Labas, Dariau,
+
+Kaip praejo savaitgalis?
+
 
 Antras redagavimas Dar vienas redagavimas
 Antras redagavimas po brancho
 
 Trecias redagavimas
 
-Readaguojam Feature1 pirma karta
+Redaguojam Feature1 pirma karta
