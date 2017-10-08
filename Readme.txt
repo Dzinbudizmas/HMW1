@@ -1,7 +1,8 @@
 Pirmas redagavimas
 
 Antras redagavimas Dar vienas redagavimas
+Antras redagavimas po brancho
 
-Trecias redagavimas po brancu
+Trecias redagavimas
 
-Sestas redagavimas
+Readaguojam Feature1 pirma karta
