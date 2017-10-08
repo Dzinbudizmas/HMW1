@@ -3,6 +3,8 @@ Labas, Dariau,
 
 Kaip praejo savaitgalis?
 
+Ar idomu dirbti NFQ? :)
+
 
 Antras redagavimas Dar vienas redagavimas
 Antras redagavimas po brancho
